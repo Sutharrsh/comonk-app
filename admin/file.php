@@ -148,7 +148,7 @@ if(!isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true){
         $file_type = $_FILES['file']['type'];
 
         // Specify the upload directory
-        $upload_dir = 'uploads/';
+        $upload_dir = '../uploads/';
 
         // Move the uploaded file to the desired location
         if (move_uploaded_file($file_tmp, $upload_dir . $file_name)) {

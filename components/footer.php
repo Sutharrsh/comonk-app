@@ -10,7 +10,7 @@
                         <h3 class="text-primary mb-4">Get In Touch</h3>
                         <p><i class="fa fa-map-marker-alt mr-2"></i>Kheda,Gujarat,India - 387001</p>
                         <!-- <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p> -->
-                        <p><i class="fa fa-envelope mr-2"></i>sutharrsh@comonk.com</p>
+                        <p><i class="fa fa-envelope mr-2"></i>Business@comonk.com</p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
