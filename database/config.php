@@ -1,5 +1,5 @@
 <?php
-$host = "http://217.21.84.103"; // Replace with your database host
+$host = "https://217.21.84.103"; // Replace with your database host
 $dbname = "u573160162_comonk"; // Replace with your database name
 $username = "u573160162_sutharrsh"; // Replace with your database username
 $password = "Harsh162$"; // Replace with your database password
