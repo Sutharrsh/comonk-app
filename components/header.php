@@ -22,8 +22,8 @@
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
                     <a href="../index.php" class="nav-item nav-link">Home</a>
-                    <a href="/pages/about.php?page=<?php echo $i=1?>" class="nav-item nav-link">Blog</a>
-                    <a href="/pages/articale.php" class="nav-item nav-link" disable>articles</a>
+                    <a href="./pages/about.php?page=<?php echo $i=1?>" class="nav-item nav-link">Blog</a>
+                    <a href="./pages/articale.php" class="nav-item nav-link" disable>articles</a>
                     <a href="#" class="nav-item nav-link" onclick="showComingSoonAlert();">Price</script></a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
