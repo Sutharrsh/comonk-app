@@ -73,7 +73,7 @@ if (!$result) {
     $titlelimit = implode(" ", array_slice($titleLines, 0, 6));
 ?>
         <div id="card-blog">
-        <div id="img"><image src="<?php echo '../'.$row['image_url']?>"></div>
+        <div id="img"><image src="<?php echo $row['image_url']?>"></div>
         <h5><?php echo $titlelimit?></h5>
         <p><strong>Category:</strong><?php echo  $categoryName?> </p>
         <p style="font-size:0.7rem"><?php echo $limitedDescription."..." ?> </p>

@@ -21,7 +21,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
-                    <a href="../index.php" class="nav-item nav-link">Home</a>
+                    <a href="./index.php" class="nav-item nav-link">Home</a>
                     <a href="../pages/about.php?page=<?php echo $i=1?>" class="nav-item nav-link">Blog</a>
                     <a href="../pages/articale.php" class="nav-item nav-link" disable>articles</a>
                     <a href="#" class="nav-item nav-link" onclick="showComingSoonAlert();">Price</script></a>
@@ -32,7 +32,7 @@
                             <a href="#" class="dropdown-item" onclick="showComingSoonAlert();">Blog Detail</a>
                         </div>
                     </div>
-                    <a href="#" class="nav-item nav-link" onclick="showComingSoonAlert();">Contact</a>
+                    <a href="./about.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <a href="#" class="btn btn-primary py-2 px-4 d-none d-lg-block" onclick="quote();">Get A Quote</a>
             </div>

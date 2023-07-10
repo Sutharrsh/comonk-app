@@ -34,7 +34,10 @@
 <body>
 
     <?php require './components/header.php'?>
-    <?php require './pages/feed.php'?>
+    <?php require './components/site-banner.php'?>
+    <?php require './components/about.php'?>
+    <?php require './components/service.php'?>
+
     <?php require './components/footer.php'?>
 
 
